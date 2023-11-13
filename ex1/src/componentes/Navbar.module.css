@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    justify-content: right; 
+    padding: 1em;
+}
+
+.navbar ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.navbar li {
+    margin: 10px;
+}
+
+.navbar a {
+    color: #707070;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
